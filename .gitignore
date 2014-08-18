@@ -1,0 +1,4 @@
+vendor
+*.iml
+Gemfile.lock
+.idea
